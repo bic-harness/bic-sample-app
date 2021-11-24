@@ -1,6 +1,0 @@
-harnessApiVersion: '1.0'
-type: APPLICATION
-branchName: sandbox
-gitConnector: bic-harness
-isGitSyncEnabled: true
-repoName: bic-sample-app
